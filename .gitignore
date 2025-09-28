@@ -1,3 +1,5 @@
 datasets/
 MNIST/
 .venv/
+requirements.txt
+my_predictions.pickle
